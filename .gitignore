@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+train/labels.cache
+valid/labels.cache
+
+wandb/
+runs/
+models/__pycache__
+utils/loggers/__pycache__
